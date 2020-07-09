@@ -1,12 +1,20 @@
- <p style="color:red;">#download</p>
+ <h1>#download Laravel</h1>
 
 
 1.composer global require laravel/installer<br>
-2.laravel new blog<br>
+2.laravel new laravelapplication<br>
 3.composer create-project --prefer-dist laravel/laravel laravelapplicartion<br>
 4.php artisan serve<br>
 to change the port :<br>
         php artisan serve --port=3000<br>
+        
+ <h1>#download Laravel</h1>        
+1.composer require livewire/livewire <br>  
+2.php artisan livewire:make light
+        
+        
+  <h1>screen</h1>        
+https://github.com/lamiae-sebbarh/light-application/issues/1#issue-654102943        
 
 
 
