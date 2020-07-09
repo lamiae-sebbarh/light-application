@@ -1,3 +1,21 @@
+ <p style="color:red;">#download</p>
+
+
+1.composer global require laravel/installer<br>
+2.laravel new blog<br>
+3.composer create-project --prefer-dist laravel/laravel laravelapplicartion<br>
+4.php artisan serve<br>
+to change the port :<br>
+        php artisan serve --port=3000<br>
+
+
+
+
+
+
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
