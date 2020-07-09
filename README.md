@@ -8,7 +8,7 @@
 to change the port :<br>
         php artisan serve --port=3000<br>
         
- <h1>#download Laravel</h1>        
+ <h1>#download Livewire</h1>        
 1.composer require livewire/livewire <br>  
 2.php artisan livewire:make light
         
